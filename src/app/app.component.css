@@ -1,0 +1,89 @@
+
+.container {
+	width: 1280px;
+	height:640px;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.cols-1 {
+	width: 10%;
+}
+
+.cols-2 {
+	width: 20%;
+}
+
+.cols-3 {
+	width: 30%;
+}
+
+.cols-4 {
+	width: 40%;
+}
+
+.cols-5 {
+	width: 50%;
+}
+
+.cols-6 {
+	width: 60%;
+}
+
+.cols-7 {
+	width: 70%;
+}
+
+.cols-8 {
+	width: 80%;
+}
+
+.cols-9 {
+	width: 90%;
+}
+
+.cols-10 {
+	width: 100%;
+}
+
+.rows-1 {
+	height:10%;
+}
+
+.rows-2 {
+	height:20%;
+}
+
+.rows-3 {
+	height:30%;
+}
+
+.rows-4 {
+	height:40%;
+}
+
+.rows-5 {
+	height:50%;
+}
+
+.rows-6 {
+	height:60%;
+}
+
+.rows-7 {
+	height:70%;
+}
+
+.rows-8 {
+	height: 80%;
+}
+
+.rows-9 {
+	height: 90%;
+}
+
+.rows-10 {
+	height: 100%;
+}
